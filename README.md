@@ -37,3 +37,5 @@ python linear_gui_with_split.py
 
 Mohamed Ryad
 Faculty of Artificial Intelligence — IoT Department
+<img width="1001" height="742" alt="image" src="https://github.com/user-attachments/assets/958943ef-7339-4f36-9f9a-8ab3fa7eedfe" />
+
